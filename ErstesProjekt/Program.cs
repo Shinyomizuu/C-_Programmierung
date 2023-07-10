@@ -31,14 +31,21 @@
              *          alle lokalten Variablen
              *          
              *          
-             * Frage 5) Wie kann ich Visual Studio mit Github - Account verbinden ? 
+             *Frage 5) Wie kann ich Visual Studio mit Github - Account verbinden ? 
              * 
-             *          Team Explorer auswählen
-             * 
+             *         Bei Team Explorter gibt es das Verbinden. Nachdem man dort draufgeklickt hat einfach die GitHub Anmeledeinformationen eingeben. 
+             *
+             *
+             *Frage 6.) 
+             *          klonen - da kann man Respositories im lokalen System klonen.
+             *          pull - wird verwendet um Änderungen aus dem Remote Respository abzurufen und mit dem lokalen Brachn zusammenzuführen
+             *          commit - wird verwende um vorgenomme Änderungen in einem lokalten Respository festzuhalten und neue Versionen zu erstellen
+             *          push - hochladen
+             *          
+             *
+             *
              */
-            Console.WriteLine("Hello World!");
-            int myVar = 1;
-            Console.WriteLine("Hello");
-        }
+
     }
+        }
 }
